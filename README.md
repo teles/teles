@@ -1,6 +1,6 @@
 ### Oi, eu sou o Teles 👋
 
-![Antifacista badge](https://img.shields.io/badge/dev-antifacista-red)
+![Antifascista badge](https://img.shields.io/badge/dev-antifascista-red)
 
 <img src="https://openclipart.org/download/216306/jotateles.svg" align="left" width="200">
 
