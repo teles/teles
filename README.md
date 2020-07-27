@@ -1,6 +1,7 @@
-### Oi, eu sou o Teles 👋
+### Olá Mundo, eu sou o Teles 👋
 
 ![Antifascista badge](https://img.shields.io/badge/dev-antifascista-red)
+![Linkedin Badge](https://img.shields.io/badge/-jotateles-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jotateles/)
 
 <img src="https://openclipart.org/download/216306/jotateles.svg" align="left" width="240">
 
