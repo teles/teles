@@ -2,7 +2,7 @@
 
 ![Antifascista badge](https://img.shields.io/badge/dev-antifascista-red)
 
-<img src="https://openclipart.org/download/216306/jotateles.svg" align="left" width="200">
+<img src="https://openclipart.org/download/216306/jotateles.svg" align="left" width="240">
 
 * 👨‍🦲 **32 anos**, bom companheiro
 * 👨‍💻 Desenvolvedor web profissional desde a época em que o IE6 era inovador
@@ -10,7 +10,8 @@
 * 👄 Autoproclamado programador meia-boca (mas aprendendo sempre)
 * 👨‍🎨 Poeta amador em [Versos do mundo](https://www.versosdomundo.com.br/livro)
 * 🏘️ Lead front-end developer na [Viva Decora](https://www.vivadecora.com.br)
-* 💡 Acredito que [software livre](https://www.gnu.org/philosophy/free-sw.pt-br.html) é uma excelente ideia e uma necessidade pra sociedade
+* 🌎 Acredito que [software livre](https://www.gnu.org/philosophy/free-sw.pt-br.html) é uma excelente ideia e uma necessidade pra sociedade
+* 💡🆓 Pegue uma [ideia de aplicativo grátis aqui](https://github.com/teles/awesome-ideas)!
 
 ### Trabalho com:
 * Javascript, ES6 ✅
