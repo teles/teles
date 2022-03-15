@@ -5,7 +5,7 @@
 
 <img src="https://openclipart.org/download/216306/jotateles.svg" align="left" width="240">
 
-* 👨‍🦲 **33 anos**, bom companheiro
+* 👨‍🦲 **33 anos**
 * 👨‍💻 Desenvolvedor web profissional desde a época em que o IE6 era inovador
 * 🚘 Ex-vendedor de carros usados
 * 👄 Autoproclamado programador meia-boca (mas aprendendo sempre)
