@@ -10,7 +10,7 @@
 * 🚘 Ex-vendedor de carros usados
 * 👄 Autoproclamado programador meia-boca (mas aprendendo sempre)
 * 👨‍🎨 Poeta amador em [Versos do mundo](https://www.versosdomundo.com.br/livro)
-* 🏘️ Lead front-end developer na [Viva Decora](https://www.vivadecora.com.br)
+* 🏘️ Sr. Software Engineer em [Latitud](https://www.latitud.com/)
 * 🌎 Acredito que [software livre](https://www.gnu.org/philosophy/free-sw.pt-br.html) é uma excelente ideia e uma necessidade pra sociedade
 * 🆓 Pegue uma [ideia de aplicativo grátis aqui](https://github.com/teles/awesome-ideas)!
 
