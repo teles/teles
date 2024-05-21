@@ -7,7 +7,6 @@
 
 I am a passionate web developer with over `${new Date().getFullYear() - 1988}` years of life experience and a deep love for coding and technology. From the days when IE6 was cutting-edge to today's modern web, I've been honing my skills and expanding my knowledge. While I adore writing code, I believe that people are at the heart of every successful project. Building meaningful connections and collaborating with others is what truly inspires me.
 
-* 👨‍🦲 **${new Date().getFullYear() - 1988} years old**
 * 👨‍💻 Professional web developer since the days when IE6 was innovative
 * 🚘 Former used car salesman
 * 👄 Self-proclaimed mediocre programmer (but always learning)
