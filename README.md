@@ -1,7 +1,7 @@
 ### Hello World, I'm Teles 👋
 
 ![Antifascist badge](https://img.shields.io/badge/dev-antifascista-red)
-[![LinkedIn Badge](https://img.shields.io/badge/-jotateles-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jotateles/)](https://www.linkedin.com/in/jotateles/)
+[![LinkedIn Badge](https://img.shields.io/badge/-telesdev-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/telesdev/)](https://www.linkedin.com/in/jotateles/)
 
 <img src="https://openclipart.org/download/216306/jotateles.svg" align="left" width="240">
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=1F2328&vCenter=true&random=false&width=460&height=32&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8+Creative+Software+Engineer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Senior+Frontend+Developer;%F0%9F%9B%A0%EF%B8%8F+JavaScript%2C+TypeScript%2C+Vue%2C+React%2C+and+more..." alt="Typing SVG" />
